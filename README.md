@@ -49,8 +49,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
   - Full-stack application for patient management, appointment scheduling, and analytics.
   - Features include role-based authentication, payment handling, and real-time updates.
   - **Technologies**: ReactJS, Django, Celery, WebSockets, Redis, Docker, GitHub Actions.
-  - [Live App](https://orozed.com)
-
+  - [Live App](https://app.orozed.com)
+  - [Landing Page - In DEV](https://orozed.com) 
 - **EURL Algeria Farm Equipment Dashboard**
   - Built a secure dynamic dashboard for content management.
   - **Technologies**: NextJS, TailwindCSS, PHP, MySQL.
