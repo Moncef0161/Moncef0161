@@ -51,11 +51,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
   - **Technologies**: ReactJS, Django, Celery, WebSockets, Redis, Docker, GitHub Actions.
   - [Live App](https://app.orozed.com)
   - [Landing Page - In DEV](https://orozed.com) 
-- **EURL Algeria Farm Equipment Dashboard**
+- **[EURL Algeria Farm Equipment Dashboard](https://abovines.com)**
   - Built a secure dynamic dashboard for content management.
   - **Technologies**: NextJS, TailwindCSS, PHP, MySQL.
 
-- **Chaîne El Djazair Website**
+- **Chaîne El Djazair Website (in dev)**
   - Developed the front-office and back-office with a focus on responsive design.
   - **Technologies**: ReactJS, Inertia.js, Laravel, SCSS.
 
