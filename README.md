@@ -1,8 +1,8 @@
-# 🏄‍♂️ Abdelaidoum Moncef
+# 👨‍💻 Abdelaidoum Moncef
 
-**`Full-Stack Developer | Passionate About Technology`**
+**`Frontend Developer (React) | Full-Stack Developer`**
 
-I am a Master’s student in Data Analysis and Sciences with a strong foundation in software engineering and a passion for crafting innovative solutions. My work spans from web development to full-stack applications, solving real-world problems using cutting-edge technologies. Whether it’s creating scalable front-end interfaces or robust back-end systems, I enjoy every step of the development process. I continuously enhance my expertise by taking on challenging projects and collaborating in dynamic team environments.
+I am a Master’s student in Data Analysis and Sciences with **2 Years** of professional experience in building web applications.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/moncef-abdelaidoum-5a3748296/">
@@ -18,17 +18,17 @@ I am a Master’s student in Data Analysis and Sciences with a strong foundation
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <br />
@@ -45,18 +45,28 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 ### 🌟 Featured Projects
 
+- **Opera Alger's Booking App**
+  - Developed the **front-office** for the client-side and the **back-office** back-office for the administration and ticketing system, including counter operations such as ticket sales, validation, scanning, and printing...
+  - **Technologies**: React.js, Redux, Inertia.js, Laravel, SCSS.
+  - [Live App](https://booking.operaalger.dz)
+  - [Backoffice](https://app.operaalger.dz)
+
 - **Dental Clinic Management App**
   - Full-stack application for patient management, appointment scheduling, and analytics.
   - Features include role-based authentication, payment handling, and real-time updates.
-  - **Technologies**: ReactJS, Django, Celery, WebSockets, Redis, Docker, GitHub Actions.
+  - **Technologies**: React.js, Redux, Django, Celery, WebSockets, Redis, Docker, GitHub Actions.
   - [Live App](https://app.orozed.com)
-  - [Landing Page - In DEV](https://orozed.com) 
-- **[EURL Algeria Farm Equipment Dashboard](https://abovines.com)**
-  - Built a secure dynamic dashboard for content management.
-  - **Technologies**: NextJS, TailwindCSS, PHP, MySQL.
+  - [Landing Page - In DEV](https://orozed.com)
 
-- **Chaîne El Djazair Website (in dev)**
-  - Developed the front-office and back-office with a focus on responsive design.
-  - **Technologies**: ReactJS, Inertia.js, Laravel, SCSS.
+- **EURL Algeria Farm Equipment (Landing Page + CMS)**
+  - Built a dynamic catalogue landing page showcasing the company’s products and services.
+  - Developed a secure, fully-featured CMS dashboard for managing website content, product data, and media.
+  - **Technologies**: Laravel, React.js, Inertia.js, TailwindCSS, MySQL.
+  - [Live App](https://abovines.com), [Dashboard](https://abovines.com/login)
+
+- **PrestigoDrive**
+  - Development of a dynamic showcase website.
+  - **Technologies**: Wordpress.
+  - [Live App](https://prestigodrive.com)
 
 ---
