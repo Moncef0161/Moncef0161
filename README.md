@@ -48,8 +48,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 - **Opera Alger's Booking App**
   - Developed the **front-office** for the client-side and the **back-office** back-office for the administration and ticketing system, including counter operations such as ticket sales, validation, scanning, and printing...
   - **Technologies**: React.js, Redux, Inertia.js, Laravel, SCSS.
-  - [Live App](https://booking.operaalger.dz)
+  - [Landing page](https://operaalger.dz) (WordPress not my work)
+  - [Booking App](https://booking.operaalger.dz)
   - [Backoffice](https://app.operaalger.dz)
+  > *Disclaimer:* The WordPress **landing page** was developed by another team — I only contributed to the **Booking** and **Backoffice** apps.
 
 - **Dental Clinic Management App**
   - Full-stack application for patient management, appointment scheduling, and analytics.
@@ -70,3 +72,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
   - [Live App](https://prestigodrive.com)
 
 ---
+
+> **Note:** Some listed projects include components developed by other teams.  
+> I’ve clearly indicated which parts were my contributions.
