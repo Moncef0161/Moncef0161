@@ -2,7 +2,7 @@
 
 **`Frontend Developer (React) | Full-Stack Developer`**
 
-I am a Master’s student in Data Analysis and Sciences with **2 Years** of professional experience in building web applications.
+Masters in Data Analysis and Sciences with **2 Years** of professional experience in building web applications.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/moncef-abdelaidoum-5a3748296/">
