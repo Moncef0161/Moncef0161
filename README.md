@@ -45,6 +45,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 ### 🌟 Featured Projects
 
+- **Orozed, Dental Clinic Management App**
+  - Full-stack application for patient management, appointment scheduling, laboratory, stock, analytics and more.
+  - Features include role-based authentication, payment handling, and real-time updates.
+  - **Technologies**: Laravel, React.js, Redux, WebSockets, Redis, Docker, GitHub Actions.
+  - [Landing Page](https://orozed.com)
+  - [Live App](https://app.orozed.com)
+
 - **Opera Alger's Booking App**
   - Developed the **front-office** for the client-side and the **back-office** back-office for the administration and ticketing system, including counter operations such as ticket sales, validation, scanning, and printing...
   - **Technologies**: React.js, Redux, Inertia.js, Laravel, SCSS.
@@ -52,13 +59,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
   - [Booking App](https://booking.operaalger.dz)
   - [Backoffice](https://app.operaalger.dz)
   > *Disclaimer:* The WordPress **landing page** was developed by another team — I only contributed to the **Booking** and **Backoffice** apps.
-
-- **Dental Clinic Management App**
-  - Full-stack application for patient management, appointment scheduling, and analytics.
-  - Features include role-based authentication, payment handling, and real-time updates.
-  - **Technologies**: React.js, Redux, Django, Celery, WebSockets, Redis, Docker, GitHub Actions.
-  - [Live App](https://app.orozed.com)
-  - [Landing Page - In DEV](https://orozed.com)
 
 - **EURL Algeria Farm Equipment (Landing Page + CMS)**
   - Built a dynamic catalogue landing page showcasing the company’s products and services.
